@@ -1,0 +1,24 @@
+CREATE OR REPLACE PROCEDURE getCatalog()
+LANGUAGE plpgsql    
+AS $$
+	DECLARE 
+    rec_film   RECORD;
+    cur_films CURSOR(p_year INTEGER) 
+    FOR SELECT catalog_id
+    FROM catalog;
+	BEGIN
+	  
+	   OPEN cur_films();
+	 
+	   LOOP
+		-- fetch row into the film
+		  FETCH cur_films INTO rec_film;
+		-- exit when no more row to fetch
+		  EXIT WHEN NOT FOUND;
+		  
+	   END LOOP;
+	  
+	   -- Close the cursor
+	   CLOSE cur_films;
+	END;
+$$;

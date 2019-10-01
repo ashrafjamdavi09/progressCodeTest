@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/Testing/Code/developerStudio/IntergyTest" type="PathEntry" ModificationStamp="1564484313337" FullName="IntergyTest" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="src">
+			<procedure name="dotnetsInclude" SourceFilePath="C:/Testing/Code/developerStudio/IntergyTest/src/dotnetsInclude.p" RfilePath="C:/Testing/Code/developerStudio/IntergyTest/src/dotnetsInclude.r"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+	</classes>
+</libraryinfo>

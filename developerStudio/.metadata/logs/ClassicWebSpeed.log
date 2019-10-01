@@ -1,0 +1,11 @@
+2019-02-25 13:48:37,141 [ERROR]  - An internal error occurred
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at com.openedge.core.runtime.AVMConnection.readIncomingMessage(AVMConnection.java:95)
+	at com.openedge.core.runtime.AVMConnection$1.run(AVMConnection.java:425)
+	at java.lang.Thread.run(Thread.java:745)

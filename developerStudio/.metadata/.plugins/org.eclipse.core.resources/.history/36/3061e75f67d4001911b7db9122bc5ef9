@@ -1,0 +1,4 @@
+for each _user no-lock:
+    MESSAGE _user._user-name
+    VIEW-AS ALERT-BOX.
+end.

@@ -1,0 +1,4 @@
+for each _user exclusive-lock:
+   MESSAGE _user-name
+   VIEW-AS ALERT-BOX.
+end.

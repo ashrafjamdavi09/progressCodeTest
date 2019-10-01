@@ -1,0 +1,420 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/ProgressV11/OpenEdge/gui/adeuib.pl" type="ProcedureLibrary" ModificationStamp="1564484313314" FullName="adeuib.pl" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="adeuib/ide">
+			<procedure name="_dialog_addreposfile" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="484805" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_advdprp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="689453" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_advisor" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="818860" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_advprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="883124" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_advpset" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="1182285" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_attredt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="1391167" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_calcfld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="1560284" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_chosobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="1667203" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_chscolr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="1806984" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_chsfont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="1942088" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_chsxprt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2011475" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_clasnew" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2161239" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_coledit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2311151" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_dirname" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2767447" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_dlgdsrc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2816476" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_dlgrecm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2847276" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_editdecl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="2882775" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_edtmenu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3027481" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_edtpage" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3248842" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_edtproc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3406658" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_filname" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3667160" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_fldsel" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3723042" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_fldseld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3785862" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_fndfile" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3828346" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_getcust" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3940965" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_gotopag" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="3998780" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_intpxpt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="4103406" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_layout" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="4250298" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_linkadd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="4457405" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_linked" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="4697820" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_massync" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="4878989" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_mfldsel" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5053513" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_mldlg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5120709" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_mlref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5260385" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_modpath" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5328710" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_opendialog" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5383334" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_ppvars" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5580701" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_prpobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="5624807" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_prpsdo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="6613633" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_prpsmar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="6851616" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_qenable" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="7014522" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_query" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="7140760" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_saveasdynobject" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="7574171" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_saveaswizd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="7832704" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_search" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8204275" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_tabedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8257417" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_tblsel" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8433730" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_ttmaint" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8483812" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_viewasd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8672123" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_xtblist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8761356" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-build" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="8884293" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-date" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9062662" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-datetime-tz" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9131551" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-datetime" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9200189" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-logic" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9268972" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-num" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9337742" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-qbw" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9405839" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_dialog_y-strng" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9433814" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_ide_msgs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9508311" RelativePath="adeuib/ide"></procedure>
+			<procedure name="_treeview" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9533580" RelativePath="adeuib/ide"></procedure>
+		</relative>
+		<relative path="adeuib">
+			<procedure name="dabattribute" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42" RelativePath="adeuib"></procedure>
+			<procedure name="dabattribute_cl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="195010" RelativePath="adeuib"></procedure>
+			<procedure name="vabattraction" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9590898" RelativePath="adeuib"></procedure>
+			<procedure name="vabattribute" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9736768" RelativePath="adeuib"></procedure>
+			<procedure name="vabattrwidg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="9884529" RelativePath="adeuib"></procedure>
+			<procedure name="wabattrgencode" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="10033422" RelativePath="adeuib"></procedure>
+			<procedure name="wabattribute" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="10203441" RelativePath="adeuib"></procedure>
+			<procedure name="_abfuncs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="10341539" RelativePath="adeuib"></procedure>
+			<procedure name="_ablink" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="10617958" RelativePath="adeuib"></procedure>
+			<procedure name="_abmbar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="10739345" RelativePath="adeuib"></procedure>
+			<procedure name="_abpref1" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11441503" RelativePath="adeuib"></procedure>
+			<procedure name="_abpref2" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11471390" RelativePath="adeuib"></procedure>
+			<procedure name="_abprefs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11490647" RelativePath="adeuib"></procedure>
+			<procedure name="_abprint" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11492874" RelativePath="adeuib"></procedure>
+			<procedure name="_accsect" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11552334" RelativePath="adeuib"></procedure>
+			<procedure name="_acontp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11681134" RelativePath="adeuib"></procedure>
+			<procedure name="_addreposfile" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11781025" RelativePath="adeuib"></procedure>
+			<procedure name="_adeuib" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11970718" RelativePath="adeuib"></procedure>
+			<procedure name="_adjclbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="11974498" RelativePath="adeuib"></procedure>
+			<procedure name="_adjcols" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12069485" RelativePath="adeuib"></procedure>
+			<procedure name="_adm-crt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12157457" RelativePath="adeuib"></procedure>
+			<procedure name="_adm-row" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12348229" RelativePath="adeuib"></procedure>
+			<procedure name="_admpset" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12454551" RelativePath="adeuib"></procedure>
+			<procedure name="_advdprp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12535318" RelativePath="adeuib"></procedure>
+			<procedure name="_advisor" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12649329" RelativePath="adeuib"></procedure>
+			<procedure name="_advprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12697986" RelativePath="adeuib"></procedure>
+			<procedure name="_advpset" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="12981297" RelativePath="adeuib"></procedure>
+			<procedure name="_advslnk" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="13169808" RelativePath="adeuib"></procedure>
+			<procedure name="_advsrun" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="13371486" RelativePath="adeuib"></procedure>
+			<procedure name="_align" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="13474740" RelativePath="adeuib"></procedure>
+			<procedure name="_assignwidgid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="13586792" RelativePath="adeuib"></procedure>
+			<procedure name="_attr-ed" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="13691781" RelativePath="adeuib"></procedure>
+			<procedure name="_attredt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14022095" RelativePath="adeuib"></procedure>
+			<procedure name="_autofld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14175689" RelativePath="adeuib"></procedure>
+			<procedure name="_bcparse" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14212883" RelativePath="adeuib"></procedure>
+			<procedure name="_c64tv" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14329816" RelativePath="adeuib"></procedure>
+			<procedure name="_calcselb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14355541" RelativePath="adeuib"></procedure>
+			<procedure name="_calcseld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14515569" RelativePath="adeuib"></procedure>
+			<procedure name="_calcseld_cl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14764237" RelativePath="adeuib"></procedure>
+			<procedure name="_calcself" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="14968000" RelativePath="adeuib"></procedure>
+			<procedure name="_calcselg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15132405" RelativePath="adeuib"></procedure>
+			<procedure name="_callqry" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15271383" RelativePath="adeuib"></procedure>
+			<procedure name="_callsrt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15434504" RelativePath="adeuib"></procedure>
+			<procedure name="_cdsuckr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15475604" RelativePath="adeuib"></procedure>
+			<procedure name="_chklbls" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15709888" RelativePath="adeuib"></procedure>
+			<procedure name="_chklblsdb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15811171" RelativePath="adeuib"></procedure>
+			<procedure name="_chklblsds" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="15919228" RelativePath="adeuib"></procedure>
+			<procedure name="_chkpos" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16027037" RelativePath="adeuib"></procedure>
+			<procedure name="_chksel" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16146492" RelativePath="adeuib"></procedure>
+			<procedure name="_chsPM" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16223907" RelativePath="adeuib"></procedure>
+			<procedure name="_chsxprt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16387074" RelativePath="adeuib"></procedure>
+			<procedure name="_clasnew" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16520651" RelativePath="adeuib"></procedure>
+			<procedure name="_closeup" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16654682" RelativePath="adeuib"></procedure>
+			<procedure name="_coderef-objnames" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16797027" RelativePath="adeuib"></procedure>
+			<procedure name="_coderef-preproc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="16979775" RelativePath="adeuib"></procedure>
+			<procedure name="_coderefs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="17162155" RelativePath="adeuib"></procedure>
+			<procedure name="_coledit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="17392842" RelativePath="adeuib"></procedure>
+			<procedure name="_colrfnt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="17827151" RelativePath="adeuib"></procedure>
+			<procedure name="_contbldrprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="17828099" RelativePath="adeuib"></procedure>
+			<procedure name="_convertadm2dynamics" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="17864948" RelativePath="adeuib"></procedure>
+			<procedure name="_crtsobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18167519" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_cmnu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18376323" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_cust" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18427260" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_npop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18728031" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_pal" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18779030" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_palette" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18911298" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_palw" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="18938961" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_prop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19008195" RelativePath="adeuib"></procedure>
+			<procedure name="_cr_xftr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19158581" RelativePath="adeuib"></procedure>
+			<procedure name="_cuelist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19188239" RelativePath="adeuib"></procedure>
+			<procedure name="_customlayoutselsuper" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19207134" RelativePath="adeuib"></procedure>
+			<procedure name="_datasrc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19375105" RelativePath="adeuib"></procedure>
+			<procedure name="_dbtbnam" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19515646" RelativePath="adeuib"></procedure>
+			<procedure name="_delet_u" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19541597" RelativePath="adeuib"></procedure>
+			<procedure name="_delmenu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19681843" RelativePath="adeuib"></procedure>
+			<procedure name="_dlgdsrc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19782031" RelativePath="adeuib"></procedure>
+			<procedure name="_drawobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19796826" RelativePath="adeuib"></procedure>
+			<procedure name="_drwbrow" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="19958429" RelativePath="adeuib"></procedure>
+			<procedure name="_drwbutt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20092240" RelativePath="adeuib"></procedure>
+			<procedure name="_drwcomb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20212352" RelativePath="adeuib"></procedure>
+			<procedure name="_drwcont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20336538" RelativePath="adeuib"></procedure>
+			<procedure name="_drwdfld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20454557" RelativePath="adeuib"></procedure>
+			<procedure name="_drwedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20652900" RelativePath="adeuib"></procedure>
+			<procedure name="_drwfill" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20771477" RelativePath="adeuib"></procedure>
+			<procedure name="_drwflds" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="20894667" RelativePath="adeuib"></procedure>
+			<procedure name="_drwflds2" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21048803" RelativePath="adeuib"></procedure>
+			<procedure name="_drwfram" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21182542" RelativePath="adeuib"></procedure>
+			<procedure name="_drwimag" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21306312" RelativePath="adeuib"></procedure>
+			<procedure name="_drwqry" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21424803" RelativePath="adeuib"></procedure>
+			<procedure name="_drwradi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21555720" RelativePath="adeuib"></procedure>
+			<procedure name="_drwrect" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21679742" RelativePath="adeuib"></procedure>
+			<procedure name="_drwsele" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21798798" RelativePath="adeuib"></procedure>
+			<procedure name="_drwslid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="21917391" RelativePath="adeuib"></procedure>
+			<procedure name="_drwsmar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22037277" RelativePath="adeuib"></procedure>
+			<procedure name="_drwtext" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22204024" RelativePath="adeuib"></procedure>
+			<procedure name="_drwtogg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22324531" RelativePath="adeuib"></procedure>
+			<procedure name="_dtchng" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22443861" RelativePath="adeuib"></procedure>
+			<procedure name="_dynamiccombod" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22574648" RelativePath="adeuib"></procedure>
+			<procedure name="_dynamiclookupd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22733316" RelativePath="adeuib"></procedure>
+			<procedure name="_dynsckr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="22902453" RelativePath="adeuib"></procedure>
+			<procedure name="_editdecl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="23461900" RelativePath="adeuib"></procedure>
+			<procedure name="_edtdflt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="23591107" RelativePath="adeuib"></procedure>
+			<procedure name="_edtgrid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="23609533" RelativePath="adeuib"></procedure>
+			<procedure name="_edtmenu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="23634821" RelativePath="adeuib"></procedure>
+			<procedure name="_edtmstr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="23840324" RelativePath="adeuib"></procedure>
+			<procedure name="_edtpage" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="23941138" RelativePath="adeuib"></procedure>
+			<procedure name="_edtpref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="24079615" RelativePath="adeuib"></procedure>
+			<procedure name="_edtproc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="24241876" RelativePath="adeuib"></procedure>
+			<procedure name="_edtsmar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="24497402" RelativePath="adeuib"></procedure>
+			<procedure name="_exphdr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="24613583" RelativePath="adeuib"></procedure>
+			<procedure name="_fclasnewbasic" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="24727033" RelativePath="adeuib"></procedure>
+			<procedure name="_fclasnewcustom" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25032011" RelativePath="adeuib"></procedure>
+			<procedure name="_ffqdlg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25143510" RelativePath="adeuib"></procedure>
+			<procedure name="_find-db" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25279240" RelativePath="adeuib"></procedure>
+			<procedure name="_fldinfo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25285788" RelativePath="adeuib"></procedure>
+			<procedure name="_fldlbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25300056" RelativePath="adeuib"></procedure>
+			<procedure name="_gendatalog" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25308189" RelativePath="adeuib"></procedure>
+			<procedure name="_gendyn" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="25393160" RelativePath="adeuib"></procedure>
+			<procedure name="_genmult" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26306787" RelativePath="adeuib"></procedure>
+			<procedure name="_gentabs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26429211" RelativePath="adeuib"></procedure>
+			<procedure name="_get-sdo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26547486" RelativePath="adeuib"></procedure>
+			<procedure name="_getctrl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26586104" RelativePath="adeuib"></procedure>
+			<procedure name="_getcust" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26611530" RelativePath="adeuib"></procedure>
+			<procedure name="_getpref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26652917" RelativePath="adeuib"></procedure>
+			<procedure name="_getttdefs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26718585" RelativePath="adeuib"></procedure>
+			<procedure name="_getwebp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26829978" RelativePath="adeuib"></procedure>
+			<procedure name="_getxftr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26859417" RelativePath="adeuib"></procedure>
+			<procedure name="_gotopag" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26892017" RelativePath="adeuib"></procedure>
+			<procedure name="_initpal" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="26986715" RelativePath="adeuib"></procedure>
+			<procedure name="_inscal8" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27039106" RelativePath="adeuib"></procedure>
+			<procedure name="_inscall" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27199938" RelativePath="adeuib"></procedure>
+			<procedure name="_intpxpt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27362682" RelativePath="adeuib"></procedure>
+			<procedure name="_isa" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27493915" RelativePath="adeuib"></procedure>
+			<procedure name="_keygues" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27574225" RelativePath="adeuib"></procedure>
+			<procedure name="_keygus2" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27578069" RelativePath="adeuib"></procedure>
+			<procedure name="_layout" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27593341" RelativePath="adeuib"></procedure>
+			<procedure name="_ldicont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27795298" RelativePath="adeuib"></procedure>
+			<procedure name="_linkadd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="27917768" RelativePath="adeuib"></procedure>
+			<procedure name="_linked" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="28142604" RelativePath="adeuib"></procedure>
+			<procedure name="_loadbc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="28307435" RelativePath="adeuib"></procedure>
+			<procedure name="_locases" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="28431413" RelativePath="adeuib"></procedure>
+			<procedure name="_massync" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="28632241" RelativePath="adeuib"></procedure>
+			<procedure name="_minsize" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="28791024" RelativePath="adeuib"></procedure>
+			<procedure name="_mldlg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="28880836" RelativePath="adeuib"></procedure>
+			<procedure name="_mlref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29004980" RelativePath="adeuib"></procedure>
+			<procedure name="_mulcont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29057512" RelativePath="adeuib"></procedure>
+			<procedure name="_namespc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29067173" RelativePath="adeuib"></procedure>
+			<procedure name="_newcalcg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29182402" RelativePath="adeuib"></procedure>
+			<procedure name="_newcalcv" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29312913" RelativePath="adeuib"></procedure>
+			<procedure name="_newfunc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29519960" RelativePath="adeuib"></procedure>
+			<procedure name="_newobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29574557" RelativePath="adeuib"></procedure>
+			<procedure name="_newobject" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29724924" RelativePath="adeuib"></procedure>
+			<procedure name="_newproc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29901039" RelativePath="adeuib"></procedure>
+			<procedure name="_ocxevnt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29956562" RelativePath="adeuib"></procedure>
+			<procedure name="_oeidepalette" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="29990134" RelativePath="adeuib"></procedure>
+			<procedure name="_oeidepref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30005665" RelativePath="adeuib"></procedure>
+			<procedure name="_oeidesync" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30075080" RelativePath="adeuib"></procedure>
+			<procedure name="_oeideuib" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30508967" RelativePath="adeuib"></procedure>
+			<procedure name="_oeidewidgets" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30693995" RelativePath="adeuib"></procedure>
+			<procedure name="_oeidewizard" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30801671" RelativePath="adeuib"></procedure>
+			<procedure name="_ok_name" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30813805" RelativePath="adeuib"></procedure>
+			<procedure name="_onframe" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30898011" RelativePath="adeuib"></procedure>
+			<procedure name="_open-w" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="30902240" RelativePath="adeuib"></procedure>
+			<procedure name="_opendialog" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31040484" RelativePath="adeuib"></procedure>
+			<procedure name="_openreposfile" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31223440" RelativePath="adeuib"></procedure>
+			<procedure name="_outpmen" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31252015" RelativePath="adeuib"></procedure>
+			<procedure name="_ppuscal" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31341774" RelativePath="adeuib"></procedure>
+			<procedure name="_ppvars" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31503445" RelativePath="adeuib"></procedure>
+			<procedure name="_proprty" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31531868" RelativePath="adeuib"></procedure>
+			<procedure name="_propsbo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31677745" RelativePath="adeuib"></procedure>
+			<procedure name="_prpdlp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="31928272" RelativePath="adeuib"></procedure>
+			<procedure name="_prpdynsmart" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="32085850" RelativePath="adeuib"></procedure>
+			<procedure name="_prplist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="32229230" RelativePath="adeuib"></procedure>
+			<procedure name="_prpmenu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="32333929" RelativePath="adeuib"></procedure>
+			<procedure name="_prpobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="32462943" RelativePath="adeuib"></procedure>
+			<procedure name="_prpsdo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="33414008" RelativePath="adeuib"></procedure>
+			<procedure name="_prpsmar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="33635229" RelativePath="adeuib"></procedure>
+			<procedure name="_prp_lbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="33781843" RelativePath="adeuib"></procedure>
+			<procedure name="_prvcont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="33858957" RelativePath="adeuib"></procedure>
+			<procedure name="_prvw4gl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="33938050" RelativePath="adeuib"></procedure>
+			<procedure name="_putpref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="34021042" RelativePath="adeuib"></procedure>
+			<procedure name="_qbuild" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="34083714" RelativePath="adeuib"></procedure>
+			<procedure name="_qikcomp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="34200967" RelativePath="adeuib"></procedure>
+			<procedure name="_qssuckr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="34408267" RelativePath="adeuib"></procedure>
+			<procedure name="_rbtns" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="35123749" RelativePath="adeuib"></procedure>
+			<procedure name="_rdbrow" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="35130450" RelativePath="adeuib"></procedure>
+			<procedure name="_rdbutt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="35338510" RelativePath="adeuib"></procedure>
+			<procedure name="_rdcomb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="35528170" RelativePath="adeuib"></procedure>
+			<procedure name="_rdcont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="35736511" RelativePath="adeuib"></procedure>
+			<procedure name="_rdedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="35930719" RelativePath="adeuib"></procedure>
+			<procedure name="_rdfill" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="36120382" RelativePath="adeuib"></procedure>
+			<procedure name="_rdfram" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="36336218" RelativePath="adeuib"></procedure>
+			<procedure name="_rdimag" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="36557018" RelativePath="adeuib"></procedure>
+			<procedure name="_rdproc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="36738067" RelativePath="adeuib"></procedure>
+			<procedure name="_rdqury" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="36847481" RelativePath="adeuib"></procedure>
+			<procedure name="_rdradi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="37078796" RelativePath="adeuib"></procedure>
+			<procedure name="_rdrect" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="37292795" RelativePath="adeuib"></procedure>
+			<procedure name="_rdsele" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="37478593" RelativePath="adeuib"></procedure>
+			<procedure name="_rdslid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="37673757" RelativePath="adeuib"></procedure>
+			<procedure name="_rdsmar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="37863465" RelativePath="adeuib"></procedure>
+			<procedure name="_rdtext" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="38153930" RelativePath="adeuib"></procedure>
+			<procedure name="_rdtogg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="38341541" RelativePath="adeuib"></procedure>
+			<procedure name="_rdwind" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="38528807" RelativePath="adeuib"></procedure>
+			<procedure name="_realizesmart" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="38741510" RelativePath="adeuib"></procedure>
+			<procedure name="_recreat" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="38975476" RelativePath="adeuib"></procedure>
+			<procedure name="_reposaddfile" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39172623" RelativePath="adeuib"></procedure>
+			<procedure name="_reposaddfl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39269239" RelativePath="adeuib"></procedure>
+			<procedure name="_roflds" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39406783" RelativePath="adeuib"></procedure>
+			<procedure name="_rszdial" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39419941" RelativePath="adeuib"></procedure>
+			<procedure name="_rszwind" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39532611" RelativePath="adeuib"></procedure>
+			<procedure name="_rsz_wp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39668668" RelativePath="adeuib"></procedure>
+			<procedure name="_rundsinclude" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39710993" RelativePath="adeuib"></procedure>
+			<procedure name="_ryobject" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39733773" RelativePath="adeuib"></procedure>
+			<procedure name="_ryobjectab" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39776371" RelativePath="adeuib"></procedure>
+			<procedure name="_sanitiz" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39814829" RelativePath="adeuib"></procedure>
+			<procedure name="_saveasdynobject" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="39977079" RelativePath="adeuib"></procedure>
+			<procedure name="_saveaswizd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="40218649" RelativePath="adeuib"></procedure>
+			<procedure name="_selcolr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="40574801" RelativePath="adeuib"></procedure>
+			<procedure name="_selevnt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="40719262" RelativePath="adeuib"></procedure>
+			<procedure name="_selkey" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="40831189" RelativePath="adeuib"></procedure>
+			<procedure name="_seltrg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="40847696" RelativePath="adeuib"></procedure>
+			<procedure name="_sel_fn" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="41010167" RelativePath="adeuib"></procedure>
+			<procedure name="_semain" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="41039609" RelativePath="adeuib"></procedure>
+			<procedure name="_seresz" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="41765734" RelativePath="adeuib"></procedure>
+			<procedure name="_setdesignwin" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="41770568" RelativePath="adeuib"></procedure>
+			<procedure name="_setpntr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="41891973" RelativePath="adeuib"></procedure>
+			<procedure name="_setsize" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="41993122" RelativePath="adeuib"></procedure>
+			<procedure name="_setwatr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42093872" RelativePath="adeuib"></procedure>
+			<procedure name="_showlbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42176708" RelativePath="adeuib"></procedure>
+			<procedure name="_showpag" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42328678" RelativePath="adeuib"></procedure>
+			<procedure name="_simbrow" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42437953" RelativePath="adeuib"></procedure>
+			<procedure name="_sim_lbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42594515" RelativePath="adeuib"></procedure>
+			<procedure name="_smoupg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42714607" RelativePath="adeuib"></procedure>
+			<procedure name="_so-info" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42779597" RelativePath="adeuib"></procedure>
+			<procedure name="_so-prvw" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42857003" RelativePath="adeuib"></procedure>
+			<procedure name="_strattr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42898888" RelativePath="adeuib"></procedure>
+			<procedure name="_strfmt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42906301" RelativePath="adeuib"></procedure>
+			<procedure name="_tabedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="42914112" RelativePath="adeuib"></procedure>
+			<procedure name="_tabordr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43074851" RelativePath="adeuib"></procedure>
+			<procedure name="_tbllist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43192602" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43275089" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbawarelib" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43589765" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbCheck" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43654783" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbComp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43664850" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbEdit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43686690" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbEntity" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="43887353" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbfind" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44041964" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbImport" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44046106" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdblib" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44193586" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbpref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44412574" RelativePath="adeuib"></procedure>
+			<procedure name="_tempdbvalid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44568421" RelativePath="adeuib"></procedure>
+			<procedure name="_templateinfo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44571497" RelativePath="adeuib"></procedure>
+			<procedure name="_treebldrprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44588685" RelativePath="adeuib"></procedure>
+			<procedure name="_ttmaint" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44625764" RelativePath="adeuib"></procedure>
+			<procedure name="_ttyedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44798056" RelativePath="adeuib"></procedure>
+			<procedure name="_ttyradi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44801683" RelativePath="adeuib"></procedure>
+			<procedure name="_ttyss" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44805078" RelativePath="adeuib"></procedure>
+			<procedure name="_ttysx" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44822558" RelativePath="adeuib"></procedure>
+			<procedure name="_tview" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="44849437" RelativePath="adeuib"></procedure>
+			<procedure name="_ufmaint" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="45209472" RelativePath="adeuib"></procedure>
+			<procedure name="_uibinfo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="45333510" RelativePath="adeuib"></procedure>
+			<procedure name="_uibmain" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="45562772" RelativePath="adeuib"></procedure>
+			<procedure name="_uibmode" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47155343" RelativePath="adeuib"></procedure>
+			<procedure name="_uibrows" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47162404" RelativePath="adeuib"></procedure>
+			<procedure name="_uibshut" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47331802" RelativePath="adeuib"></procedure>
+			<procedure name="_uibstrt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47452894" RelativePath="adeuib"></procedure>
+			<procedure name="_uibupdt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47636412" RelativePath="adeuib"></procedure>
+			<procedure name="_uib_crt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47753056" RelativePath="adeuib"></procedure>
+			<procedure name="_uib_del" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47889044" RelativePath="adeuib"></procedure>
+			<procedure name="_uib_dlg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="47966670" RelativePath="adeuib"></procedure>
+			<procedure name="_undbrow" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48093794" RelativePath="adeuib"></procedure>
+			<procedure name="_undbutt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48263567" RelativePath="adeuib"></procedure>
+			<procedure name="_undcomb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48389041" RelativePath="adeuib"></procedure>
+			<procedure name="_undcont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48525447" RelativePath="adeuib"></procedure>
+			<procedure name="_unddv" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48659238" RelativePath="adeuib"></procedure>
+			<procedure name="_undedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48749998" RelativePath="adeuib"></procedure>
+			<procedure name="_undfill" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="48883010" RelativePath="adeuib"></procedure>
+			<procedure name="_undfram" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49014806" RelativePath="adeuib"></procedure>
+			<procedure name="_undimag" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49194429" RelativePath="adeuib"></procedure>
+			<procedure name="_undmenu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49318218" RelativePath="adeuib"></procedure>
+			<procedure name="_undo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49427295" RelativePath="adeuib"></procedure>
+			<procedure name="_undomov" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49580363" RelativePath="adeuib"></procedure>
+			<procedure name="_undosiz" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49690746" RelativePath="adeuib"></procedure>
+			<procedure name="_undqry" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49802350" RelativePath="adeuib"></procedure>
+			<procedure name="_undradi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="49940754" RelativePath="adeuib"></procedure>
+			<procedure name="_undrect" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50079883" RelativePath="adeuib"></procedure>
+			<procedure name="_undsdo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50202617" RelativePath="adeuib"></procedure>
+			<procedure name="_undsele" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50339649" RelativePath="adeuib"></procedure>
+			<procedure name="_undslid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50475464" RelativePath="adeuib"></procedure>
+			<procedure name="_undsmar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50609656" RelativePath="adeuib"></procedure>
+			<procedure name="_undtext" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50611564" RelativePath="adeuib"></procedure>
+			<procedure name="_undtogg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50737968" RelativePath="adeuib"></procedure>
+			<procedure name="_upddott" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50868316" RelativePath="adeuib"></procedure>
+			<procedure name="_updmenu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="50982857" RelativePath="adeuib"></procedure>
+			<procedure name="_updtclr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51099323" RelativePath="adeuib"></procedure>
+			<procedure name="_usecust" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51210098" RelativePath="adeuib"></procedure>
+			<procedure name="_vbini" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51381296" RelativePath="adeuib"></procedure>
+			<procedure name="_vbxadvs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51413087" RelativePath="adeuib"></procedure>
+			<procedure name="_vgenrl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51520309" RelativePath="adeuib"></procedure>
+			<procedure name="_vgrid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51771499" RelativePath="adeuib"></procedure>
+			<procedure name="_vldwin" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51884078" RelativePath="adeuib"></procedure>
+			<procedure name="_vprint" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="51997297" RelativePath="adeuib"></procedure>
+			<procedure name="_vrfyqry" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="52213154" RelativePath="adeuib"></procedure>
+			<procedure name="_vseced" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="52394157" RelativePath="adeuib"></procedure>
+			<procedure name="_vwebcon" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="52571531" RelativePath="adeuib"></procedure>
+			<procedure name="_vwidgetid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="52718623" RelativePath="adeuib"></procedure>
+			<procedure name="_widfunc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="52938205" RelativePath="adeuib"></procedure>
+			<procedure name="_widgetidassign" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53126761" RelativePath="adeuib"></procedure>
+			<procedure name="_windpos" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53321406" RelativePath="adeuib"></procedure>
+			<procedure name="_windsdn" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53428386" RelativePath="adeuib"></procedure>
+			<procedure name="_winsave" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53454252" RelativePath="adeuib"></procedure>
+			<procedure name="_wintitl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53532052" RelativePath="adeuib"></procedure>
+			<procedure name="_wrcont" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53651692" RelativePath="adeuib"></procedure>
+			<procedure name="_writedf" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53791628" RelativePath="adeuib"></procedure>
+			<procedure name="_wrrott" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="53968656" RelativePath="adeuib"></procedure>
+			<procedure name="_xfcedit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="54006510" RelativePath="adeuib"></procedure>
+			<procedure name="_xftradd" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="54012238" RelativePath="adeuib"></procedure>
+			<procedure name="_xftred" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="54032141" RelativePath="adeuib"></procedure>
+			<procedure name="_xtblist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" isInsidePL="true" Offset="54179703" RelativePath="adeuib"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+		<pacakage name="adeuib.ide.request">
+			<class name="adeuib.ide.request.debug" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="382254"></class>
+			<class name="adeuib.ide.request.idesignrequest" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="true" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="adeuib.ide.request.irequestæ" ImportedPackages="" isInsidePL="true" Offset="389620"></class>
+			<class name="adeuib.ide.request.irequest" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="true" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="392604"></class>
+			<class name="adeuib.ide.request._designrequest" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="true" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib.ide.request._request" InterfaceNames="adeuib.ide.request.idesignrequestæadeuib.ide.request.irequestæ" ImportedPackages="" isInsidePL="true" Offset="396110"></class>
+			<class name="adeuib.ide.request._registerinrepository" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib.ide.request._designrequest" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="411140"></class>
+			<class name="adeuib.ide.request._request" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="true" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="adeuib.ide.request.irequestæ" ImportedPackages="" isInsidePL="true" Offset="416972"></class>
+			<class name="adeuib.ide.request._requestmanager" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="427367"></class>
+			<class name="adeuib.ide.request._saveasreposrequest" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib.ide.request._designrequest" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="435677"></class>
+			<class name="adeuib.ide.request._saveasrequest" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib.ide.request._designrequest" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="444923"></class>
+			<class name="adeuib.ide.request._saverequest" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib.ide.request._designrequest" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="453930"></class>
+		</pacakage>
+		<pacakage name="adeuib">
+			<class name="adeuib.idialogservice" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="true" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="adeuib.iideeventserviceæ" ImportedPackages="" isInsidePL="true" Offset="9577066"></class>
+			<class name="adeuib.iideeventservice" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="true" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="9588089"></class>
+			<class name="adeuib._abstractdialogservice" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="true" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="adeuib.idialogserviceæadeuib.iideeventserviceæ" ImportedPackages="" isInsidePL="true" Offset="11526628"></class>
+			<class name="adeuib._dialogservice" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._abstractdialogservice" InterfaceNames="adeuib.idialogserviceæadeuib.iideeventserviceæ" ImportedPackages="" isInsidePL="true" Offset="19768692"></class>
+			<class name="adeuib._ideeventservice" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="adeuib.iideeventserviceæ" ImportedPackages="" isInsidePL="true" Offset="26981256"></class>
+			<class name="adeuib._windowservice" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._abstractdialogservice" InterfaceNames="adeuib.idialogserviceæadeuib.iideeventserviceæ" ImportedPackages="" isInsidePL="true" Offset="53310904"></class>
+		</pacakage>
+		<pacakage name="adeuib.ide">
+			<class name="adeuib.ide._choosefielddefaults" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="461864"></class>
+			<class name="adeuib.ide._chooseocx" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="466509"></class>
+			<class name="adeuib.ide._chooserelation" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="470293"></class>
+			<class name="adeuib.ide._choosesdo" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="475282"></class>
+			<class name="adeuib.ide._choosesmartobject" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="479448"></class>
+			<class name="adeuib.ide._drawfields" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="9502584"></class>
+			<class name="adeuib.ide._selecttables" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="9528593"></class>
+			<class name="adeuib.ide._widgetevent" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeuib.pl" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="adeuib._ideeventservice" InterfaceNames="" ImportedPackages="" isInsidePL="true" Offset="9573244"></class>
+		</pacakage>
+	</classes>
+</libraryinfo>

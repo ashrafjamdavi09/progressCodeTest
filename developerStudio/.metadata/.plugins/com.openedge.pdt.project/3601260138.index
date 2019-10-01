@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/ProgressV11/OpenEdge/gui/adedict.pl" type="ProcedureLibrary" ModificationStamp="1564484313352" FullName="adedict.pl" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="adedict/IDX">
+			<procedure name="_idxprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1337825" RelativePath="adedict/IDX"></procedure>
+			<procedure name="_newidx" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1423762" RelativePath="adedict/IDX"></procedure>
+			<procedure name="_saveidx" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1555243" RelativePath="adedict/IDX"></procedure>
+		</relative>
+		<relative path="adedict/FLD">
+			<procedure name="_dfltfmt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="263977" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_dfltgat" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="304057" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_domprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="342710" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_dtcust" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="343586" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_fldcopy" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="383436" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_fldfmts" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="480708" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_fldgate" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="543646" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_fldint64" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="656944" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_fldprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="684069" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_fldval" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="774233" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_newfld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="826213" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_ptinlst" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1071406" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_renam" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1098256" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_renum" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1173299" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_savedom" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1237852" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_savefld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1238728" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_sqlwptr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1299660" RelativePath="adedict/FLD"></procedure>
+			<procedure name="_valgate" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1300656" RelativePath="adedict/FLD"></procedure>
+		</relative>
+		<relative path="adedict/TBL">
+			<procedure name="_newtbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1806474" RelativePath="adedict/TBL"></procedure>
+			<procedure name="_okmttbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1903754" RelativePath="adedict/TBL"></procedure>
+			<procedure name="_savetbl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1943916" RelativePath="adedict/TBL"></procedure>
+			<procedure name="_tblprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1998893" RelativePath="adedict/TBL"></procedure>
+			<procedure name="_tblsas" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2068456" RelativePath="adedict/TBL"></procedure>
+			<procedure name="_tblval" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2111563" RelativePath="adedict/TBL"></procedure>
+		</relative>
+		<relative path="adedict">
+			<procedure name="_blnknam" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2387791" RelativePath="adedict"></procedure>
+			<procedure name="_brwadj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2390182" RelativePath="adedict"></procedure>
+			<procedure name="_brwbtn" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2436065" RelativePath="adedict"></procedure>
+			<procedure name="_brwgray" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2466588" RelativePath="adedict"></procedure>
+			<procedure name="_brwlist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2524182" RelativePath="adedict"></procedure>
+			<procedure name="_btnup" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2562234" RelativePath="adedict"></procedure>
+			<procedure name="_capab" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2587480" RelativePath="adedict"></procedure>
+			<procedure name="_changed" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2612235" RelativePath="adedict"></procedure>
+			<procedure name="_closwin" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2696638" RelativePath="adedict"></procedure>
+			<procedure name="_dcttran" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2749342" RelativePath="adedict"></procedure>
+			<procedure name="_delete" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3061201" RelativePath="adedict"></procedure>
+			<procedure name="_delwins" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3137281" RelativePath="adedict"></procedure>
+			<procedure name="_dictfdb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3163488" RelativePath="adedict"></procedure>
+			<procedure name="_dictg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3166563" RelativePath="adedict"></procedure>
+			<procedure name="_getflst" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3449158" RelativePath="adedict"></procedure>
+			<procedure name="_leavnam" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3485537" RelativePath="adedict"></procedure>
+			<procedure name="_newobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3507010" RelativePath="adedict"></procedure>
+			<procedure name="_nextobj" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3533557" RelativePath="adedict"></procedure>
+			<procedure name="_objsel" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3606876" RelativePath="adedict"></procedure>
+			<procedure name="_openwin" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3659619" RelativePath="adedict"></procedure>
+			<procedure name="_setid" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="3683377" RelativePath="adedict"></procedure>
+		</relative>
+		<relative path="adedict/SEQ">
+			<procedure name="_newseq" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1618136" RelativePath="adedict/SEQ"></procedure>
+			<procedure name="_okmtseq" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1675911" RelativePath="adedict/SEQ"></procedure>
+			<procedure name="_saveseq" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1716450" RelativePath="adedict/SEQ"></procedure>
+			<procedure name="_seqprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="1767625" RelativePath="adedict/SEQ"></procedure>
+		</relative>
+		<relative path="adedict/TRIG">
+			<procedure name="_trigdlg" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="2156860" RelativePath="adedict/TRIG"></procedure>
+		</relative>
+		<relative path="adedict/DB">
+			<procedure name="_connect" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="42" RelativePath="adedict/DB"></procedure>
+			<procedure name="_dbprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="33461" RelativePath="adedict/DB"></procedure>
+			<procedure name="_dconn" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="69344" RelativePath="adedict/DB"></procedure>
+			<procedure name="_getdbs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="95673" RelativePath="adedict/DB"></procedure>
+			<procedure name="_getrdbs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="127836" RelativePath="adedict/DB"></procedure>
+			<procedure name="_newdb" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="154589" RelativePath="adedict/DB"></procedure>
+			<procedure name="_savdbprop" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="180045" RelativePath="adedict/DB"></procedure>
+			<procedure name="_switch" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adedict.pl" isInsidePL="true" Offset="217797" RelativePath="adedict/DB"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+	</classes>
+</libraryinfo>

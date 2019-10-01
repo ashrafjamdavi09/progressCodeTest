@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/Testing/Code/developerStudio/security" type="PathEntry" ModificationStamp="1568191960275" FullName="security" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="code">
+			<procedure name="authentications" SourceFilePath="C:/Testing/Code/developerStudio/security/code/authentications.p" RfilePath="C:/Testing/Code/developerStudio/security/code/authentications.r"></procedure>
+			<procedure name="authentications" SourceFilePath="" RfilePath="C:/Testing/Code/developerStudio/security/code/authentications.r"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+	</classes>
+</libraryinfo>

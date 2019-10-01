@@ -1,0 +1,23 @@
+
+                Tue Sep 10 12:01:22 2019
+[2019/09/10@12:01:22.440+2300] P-12620      T-1152  I DBUTIL   : (451)   prostrct create session begin for ashraf.nawaz on CON:. 
+[2019/09/10@12:01:22.448+2300] P-12620      T-1152  I DBUTIL   : (12862) Structure file sports2000.st used to create database with blocksize 4096. 
+[2019/09/10@12:01:22.454+2300] P-12620      T-1152  I DBUTIL   : (334)   prostrct create session end. 
+[2019/09/10@12:01:22.498+2300] P-12620      T-1152  I DBUTIL   : (451)   procopy session begin for ashraf.nawaz on CON:. 
+[2019/09/10@12:01:22.590+2300] P-12620      T-1152  I DBUTIL   : (334)   procopy session end. 
+
+                Tue Sep 10 12:01:22 2019
+[2019/09/10@12:01:22.632+2300] P-12620      T-1152  I          : (451)   procopy get default SQL DBA session begin for ashraf.nawaz on CON:. 
+[2019/09/10@12:01:22.632+2300] P-12620      T-1152  I          : (15321) Before Image Log Initialization at block 0  offset 27864976. 
+[2019/09/10@12:01:22.716+2300] P-12620      T-1152  I          : (1365)  Database copied from C:\PROGRE~4\OpenEdge\sports2000. 
+[2019/09/10@12:01:22.735+2300] P-12620      T-1152  I          : (15109) At Database close the number of live transactions is 0. 
+[2019/09/10@12:01:22.735+2300] P-12620      T-1152  I          : (15743) Before Image Log Completion at Block 0 Offset 644. 
+[2019/09/10@12:01:22.740+2300] P-12620      T-1152  I          : (334)   procopy get default SQL DBA session end. 
+
+                Tue Sep 10 12:01:50 2019
+[2019/09/10@12:01:50.035+2300] P-21416      T-21420 I ABL      : (451)   Single-user session begin for ashraf.nawaz on CON:. 
+[2019/09/10@12:01:50.035+2300] P-21416      T-21420 I ABL      : (15321) Before Image Log Initialization at block 0  offset 644. 
+[2019/09/10@12:01:50.044+2300] P-21416      T-21420 I ABL      : (7129)  Usr 0 set name to ashraf.nawaz. 
+[2019/09/10@19:33:56.559+2300] P-21416      T-21420 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2019/09/10@19:33:56.560+2300] P-21416      T-21420 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 704. 
+[2019/09/10@19:33:56.561+2300] P-21416      T-21420 I ABL      : (334)   Single-user session end. 

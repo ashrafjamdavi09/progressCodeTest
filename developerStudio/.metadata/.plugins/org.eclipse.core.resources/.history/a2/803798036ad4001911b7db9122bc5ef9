@@ -1,0 +1,12 @@
+find first _user no-lock
+    where _user._user-name = "ashraf" no-error.
+
+if available (_user) then
+do:
+    if encode('22222') eq _user._Password then
+        MESSAGE "password is same"
+            VIEW-AS ALERT-BOX.
+end.   
+else
+    MESSAGE "not save"
+    VIEW-AS ALERT-BOX.

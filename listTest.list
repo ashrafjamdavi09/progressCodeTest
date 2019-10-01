@@ -1,0 +1,36 @@
+...ode\BufferScope.p                  07/05/2019 07:35:11   PROGRESS(R) Page 1   
+
+{} Line Blk
+-- ---- ---
+      1   1 DO FOR Customer:
+      2   1   FIND FIRST Customer NO-LOCK WHERE cust-num = 1.
+      3   1   DISPLAY Customer.Cust-Num.
+      4     END.
+      5     
+      6   1 FOR FIRST customer NO-LOCK:
+      7   1     DISP cust-num.
+      8     END.
+      9     
+     10     FOR EACH Customer NO-LOCK WHERE Customer.State = "NH" 
+     11   1   BY Customer.Credit-Limit DESCENDING:
+     12   1   DISPLAY Customer.Cust-Num Customer.Name Customer.Credit-Limit.
+     13     END.
+...ode\BufferScope.p                  07/05/2019 07:35:11   PROGRESS(R) Page 2   
+
+     File Name       Line Blk. Type   Tran            Blk. Label            
+-------------------- ---- ----------- ---- --------------------------------
+...ode\BufferScope.p    0 Procedure   No                                    
+    Frames:  Unnamed
+
+...ode\BufferScope.p    1 Do          No                                    
+    Buffers: sports.Customer
+
+...ode\BufferScope.p    6 For         No                                    
+    Buffers: sports.Customer
+    Frames:  Unnamed
+
+...ode\BufferScope.p   10 For         No                                    
+    Buffers: sports.Customer
+    Frames:  Unnamed
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema/databaseConnection.xsd">
+<databaseconnection identifier="sports">
+<name>sports</name>
+<description/>
+<physicalname>C:\Testing\Code\DB\sports.db</physicalname>
+<logicalname/>
+<aliases/>
+<group/>
+<host>localhost</host>
+<service>12345</service>
+<userID>ashraf</userID>
+<password>MAg+bH4U0GE=</password>
+<connectionparameters/>
+<SQLIdentifier>-6d4ad417:16cf72122ef:-7a62</SQLIdentifier>
+<autoStartServer>true</autoStartServer>
+<serverParameters>-db C:\Testing\Code\DB\sports.db -S 12345   </serverParameters>
+<autoShutdownServer>false</autoShutdownServer>
+<OEVersion>11.7</OEVersion>
+</databaseconnection>
+</root>

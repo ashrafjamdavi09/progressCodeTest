@@ -1,0 +1,3 @@
+for each _user exclusive-lock:
+   // delete _user.
+end.

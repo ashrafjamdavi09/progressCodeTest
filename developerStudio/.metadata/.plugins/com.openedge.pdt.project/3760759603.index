@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/ProgressV11/OpenEdge/gui/adeshar.pl" type="ProcedureLibrary" ModificationStamp="1564484313338" FullName="adeshar.pl" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="adeshar">
+			<procedure name="mpclose" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="42" RelativePath="adeshar"></procedure>
+			<procedure name="mpdelay" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2985" RelativePath="adeshar"></procedure>
+			<procedure name="mpdisp" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="4430" RelativePath="adeshar"></procedure>
+			<procedure name="mpinit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="7579" RelativePath="adeshar"></procedure>
+			<procedure name="mpstotal" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="11666" RelativePath="adeshar"></procedure>
+			<procedure name="mpwrap" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="14140" RelativePath="adeshar"></procedure>
+			<procedure name="_ablic" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="15120" RelativePath="adeshar"></procedure>
+			<procedure name="_bstfnam" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="20695" RelativePath="adeshar"></procedure>
+			<procedure name="_bstname" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="114401" RelativePath="adeshar"></procedure>
+			<procedure name="_calcfld" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="223414" RelativePath="adeshar"></procedure>
+			<procedure name="_chksave" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="313096" RelativePath="adeshar"></procedure>
+			<procedure name="_cntrapi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="315845" RelativePath="adeshar"></procedure>
+			<procedure name="_cntrsdm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="377000" RelativePath="adeshar"></procedure>
+			<procedure name="_coddflt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="397756" RelativePath="adeshar"></procedure>
+			<procedure name="_codinit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="635764" RelativePath="adeshar"></procedure>
+			<procedure name="_contbin" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="642736" RelativePath="adeshar"></procedure>
+			<procedure name="_contbnm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="757184" RelativePath="adeshar"></procedure>
+			<procedure name="_conthdl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="868544" RelativePath="adeshar"></procedure>
+			<procedure name="_dialbdr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="871895" RelativePath="adeshar"></procedure>
+			<procedure name="_dirname" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="874455" RelativePath="adeshar"></procedure>
+			<procedure name="_filname" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="907953" RelativePath="adeshar"></procedure>
+			<procedure name="_fldtype" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="948441" RelativePath="adeshar"></procedure>
+			<procedure name="_gen4gl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="954756" RelativePath="adeshar"></procedure>
+			<procedure name="_gendefs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="1509216" RelativePath="adeshar"></procedure>
+			<procedure name="_getwdir" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2071062" RelativePath="adeshar"></procedure>
+			<procedure name="_machk" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2075969" RelativePath="adeshar"></procedure>
+			<procedure name="_madda" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2097296" RelativePath="adeshar"></procedure>
+			<procedure name="_maddf" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2114456" RelativePath="adeshar"></procedure>
+			<procedure name="_maddi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2134957" RelativePath="adeshar"></procedure>
+			<procedure name="_maddm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2159770" RelativePath="adeshar"></procedure>
+			<procedure name="_maddt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2176999" RelativePath="adeshar"></procedure>
+			<procedure name="_mcheckm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2197147" RelativePath="adeshar"></procedure>
+			<procedure name="_mchgi" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2217172" RelativePath="adeshar"></procedure>
+			<procedure name="_mclose" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2237459" RelativePath="adeshar"></procedure>
+			<procedure name="_mdelf" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2252300" RelativePath="adeshar"></procedure>
+			<procedure name="_mdeli" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2269911" RelativePath="adeshar"></procedure>
+			<procedure name="_mdelsm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2290386" RelativePath="adeshar"></procedure>
+			<procedure name="_mdelt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2307520" RelativePath="adeshar"></procedure>
+			<procedure name="_mfire" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2323651" RelativePath="adeshar"></procedure>
+			<procedure name="_mfiref" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2345130" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetf" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2367519" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetfl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2384931" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetfs" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2401417" RelativePath="adeshar"></procedure>
+			<procedure name="_mgeti" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2416771" RelativePath="adeshar"></procedure>
+			<procedure name="_mgeti2" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2434519" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetil" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2452491" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2470274" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetml" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2485851" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetsmc" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2501342" RelativePath="adeshar"></procedure>
+			<procedure name="_mgett2" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2517760" RelativePath="adeshar"></procedure>
+			<procedure name="_mgett3" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2535813" RelativePath="adeshar"></procedure>
+			<procedure name="_mgettl" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2553914" RelativePath="adeshar"></procedure>
+			<procedure name="_mgetu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2569757" RelativePath="adeshar"></procedure>
+			<procedure name="_minit" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2585235" RelativePath="adeshar"></procedure>
+			<procedure name="_mlmgr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2605791" RelativePath="adeshar"></procedure>
+			<procedure name="_mread" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2797411" RelativePath="adeshar"></procedure>
+			<procedure name="_mreset" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2823341" RelativePath="adeshar"></procedure>
+			<procedure name="_mresett" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2843677" RelativePath="adeshar"></procedure>
+			<procedure name="_mrulist" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2859066" RelativePath="adeshar"></procedure>
+			<procedure name="_msecure" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2891019" RelativePath="adeshar"></procedure>
+			<procedure name="_msepnm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2910652" RelativePath="adeshar"></procedure>
+			<procedure name="_msett1" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2925818" RelativePath="adeshar"></procedure>
+			<procedure name="_msett2" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2941455" RelativePath="adeshar"></procedure>
+			<procedure name="_msetu" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2958159" RelativePath="adeshar"></procedure>
+			<procedure name="_mupdatm" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="2973709" RelativePath="adeshar"></procedure>
+			<procedure name="_mupdatt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3006908" RelativePath="adeshar"></procedure>
+			<procedure name="_mupdf" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3036988" RelativePath="adeshar"></procedure>
+			<procedure name="_mwrite" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3060836" RelativePath="adeshar"></procedure>
+			<procedure name="_ocxdflt" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3108502" RelativePath="adeshar"></procedure>
+			<procedure name="_puterr" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3225432" RelativePath="adeshar"></procedure>
+			<procedure name="_qenable" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3228196" RelativePath="adeshar"></procedure>
+			<procedure name="_qset" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3341771" RelativePath="adeshar"></procedure>
+			<procedure name="_query" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3456346" RelativePath="adeshar"></procedure>
+			<procedure name="_qwhere" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3864056" RelativePath="adeshar"></procedure>
+			<procedure name="_seldir" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3967779" RelativePath="adeshar"></procedure>
+			<procedure name="_taskbar" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3969115" RelativePath="adeshar"></procedure>
+			<procedure name="_testbin" SourceFilePath="" RfilePath="C:/ProgressV11/OpenEdge/gui/adeshar.pl" isInsidePL="true" Offset="3980405" RelativePath="adeshar"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+	</classes>
+</libraryinfo>

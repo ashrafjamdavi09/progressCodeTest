@@ -1,0 +1,10 @@
+DEFINE VARIABLE cFilename AS CHARACTER   NO-UNDO.
+DEFINE VARIABLE cFullpath AS CHARACTER   NO-UNDO.
+RUN C:\Testing\Code\Chui\buildfilepath.p(1234567890, OUTPUT cFilename,OUTPUT cFullpath).
+
+
+MESSAGE "File name: " cFilename
+    VIEW-AS ALERT-BOX INFORMATION BUTTONS OK.
+
+MESSAGE "Full Dir name :" cFullpath
+    VIEW-AS ALERT-BOX INFORMATION BUTTONS OK.

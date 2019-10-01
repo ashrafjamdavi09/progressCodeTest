@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/Testing/Code/developerStudio/restTest" type="PathEntry" ModificationStamp="1568191960282" FullName="restTest" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="AppServer">
+			<procedure name="getCustomer" SourceFilePath="C:/Testing/Code/developerStudio/restTest/AppServer/getCustomer.p" RfilePath="C:/Testing/Code/developerStudio/restTest/AppServer/getCustomer.r"></procedure>
+			<procedure name="getCustomer" SourceFilePath="" RfilePath="C:/Testing/Code/developerStudio/restTest/AppServer/getCustomer.r"></procedure>
+		</relative>
+		<relative path="PASOEContent/static/error">
+			<procedure name="error401" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/error/error401.html" RfilePath=""></procedure>
+			<procedure name="error403" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/error/error403.html" RfilePath=""></procedure>
+			<procedure name="error404" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/error/error404.html" RfilePath=""></procedure>
+			<procedure name="error500" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/error/error500.html" RfilePath=""></procedure>
+			<procedure name="error503" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/error/error503.html" RfilePath=""></procedure>
+		</relative>
+		<relative path="PASOEContent/static/auth">
+			<procedure name="login" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/auth/login.html" RfilePath=""></procedure>
+			<procedure name="loginfail" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/auth/loginfail.html" RfilePath=""></procedure>
+			<procedure name="logout" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/auth/logout.html" RfilePath=""></procedure>
+		</relative>
+		<relative path="PASOEContent/static">
+			<procedure name="ServerStatus" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/ServerStatus.html" RfilePath=""></procedure>
+			<procedure name="commonPageFooter" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/commonPageFooter.html" RfilePath=""></procedure>
+			<procedure name="commonPageHeader" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/commonPageHeader.html" RfilePath=""></procedure>
+			<procedure name="home" SourceFilePath="C:/Testing/Code/developerStudio/restTest/PASOEContent/static/home.html" RfilePath=""></procedure>
+		</relative>
+	</procedures>
+	<classes>
+	</classes>
+</libraryinfo>

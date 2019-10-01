@@ -1,0 +1,62 @@
+=====================================================
+PROGRESS stack trace as of Mon Feb 25 13:48:36 2019
+=====================================================
+
+Progress OpenEdge Release 11.7 build 1592 SP03 on WINNT 
+
+Startup parameters:
+-pf C:\ProgressV11\OpenEdge\startup.pf,-cpinternal 1252,-cpstream 1252,-cpcoll Basic,-cpcase Basic,-d mdy,-numsep 44,-numdec 46,(end .pf),-wy,-nosplash,-debugalert,-inp 16000,-tok 4000,-rereadnolock,-s 200,-mmax 65534,-T C:/ProgressV11/wrk_OpenEdge,-assemblies C:\Testing\Code\developerStudio\IntergyTest,-p C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_server.p
+
+Exception code: C0000005 ACCESS_VIOLATION
+Fault address:  5AB7D949 01:0041C949 C:\ProgressV11\OpenEdge\bin\prow32.dll
+
+Registers:
+EAX:00000000
+EBX:002C7030
+ECX:039784BC
+EDX:00000000
+ESI:00F8D6AC
+EDI:00977E94
+CS:EIP:0023:5AB7D949
+SS:ESP:002B:00F8D640  EBP:002C7010
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00010246
+
+
+Debugging dll: C:\ProgressV11\OpenEdge\bin\DBGHELP.DLL
+Symbol Path:
+ C:\ProgressV11\OpenEdge\bin;C:\ProgressV11\OpenEdge\pdbfiles
+
+
+Call Stack:
+Address   Frame
+5AB7D949  00F8D660  dbut_utfIsLink+15B1A9
+5AB7F45F  00F8D72C  dbut_utfIsLink+15CCBF
+
+
+** ABL Stack Trace **
+
+--> C:\Testing\Code\developerStudio\.metadata\.plugins\com.openedge.pdt.project\/IntergyTest/IntergyTest/../compile_tmp_665853.p at line 6  (C:\Testing\Code\developerStudio\.metadata\.plugins\com.openedge.pdt.project\\IntergyTest\IntergyTest\..\compile_tmp_665853.p)
+    C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_idecompile.p at line 138  (C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_idecompile.p)
+    executeCmd C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_server.p at line 265  (C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_server.p)
+    ReceiveCommand C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_socketclient.p at line 497  (C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_socketclient.p)
+    C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_server.p at line 174  (C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_server.p)
+
+** Persistent procedures/Classes **
+
+Handle  File Name
+001009  c:\progressv11\openedge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_serverdefault.p
+001008  c:\progressv11\openedge\oeide\eclipse\plugins\com.openedge.pdt.ve_11.7.3.00\runtime\_ideveruntime.p
+001007  c:\progressv11\openedge\oeide\eclipse\plugins\com.openedge.pdt.text_11.7.3.00\runtime\_idetxtruntime.p
+001006  c:\progressv11\openedge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_idewsruntime.p
+001005  c:\progressv11\openedge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_idedbruntime.p
+001004  c:\progressv11\openedge\oeide\eclipse\plugins\com.openedge.pdt.oestudio_11.7.3.00\runtime\_abruntime.p
+001002  C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_socketclient.p
+001000  C:\ProgressV11\OpenEdge\oeide\eclipse\plugins\com.openedge.pdt.project_11.7.3.00\runtime\_oeidecontext.p
+
+** PROPATH **
+C:\Testing\Code\developerStudio\IntergyTest\src,C:\Testing\Code\developerStudio\IntergyTest,C:\ProgressV11\OpenEdge\gui\,C:\ProgressV11\OpenEdge\gui\adecomm.pl,C:\ProgressV11\OpenEdge\gui\adecomp.pl,C:\ProgressV11\OpenEdge\gui\adedict.pl,C:\ProgressV11\OpenEdge\gui\adeedit.pl,C:\ProgressV11\OpenEdge\gui\adeicon.pl,C:\ProgressV11\OpenEdge\gui\adeshar.pl,C:\ProgressV11\OpenEdge\gui\adeuib.pl,C:\ProgressV11\OpenEdge\gui\adeweb.pl,C:\ProgressV11\OpenEdge\gui\adexml.pl,C:\ProgressV11\OpenEdge\gui\dataadmin.pl,C:\ProgressV11\OpenEdge\gui\prodict.pl,C:\ProgressV11\OpenEdge\gui\protools.pl,C:\ProgressV11\OpenEdge\gui\OpenEdge.Core.pl,C:\ProgressV11\OpenEdge\gui\OpenEdge.BusinessLogic.pl,C:\ProgressV11\OpenEdge\gui\netlib\OpenEdge.Net.pl,C:\ProgressV11\OpenEdge,C:\ProgressV11\OpenEdge\bin,C:\ProgressV11\OpenEdge\gui,C:\ProgressV11\OpenEdge\gui\ablunit.pl,C:\ProgressV11\OpenEdge\gui\adedesk.pl,C:\ProgressV11\OpenEdge\gui\aderes.pl,C:\ProgressV11\OpenEdge\gui\OpenEdge.ServerAdmin.pl
+
+** Databases (logical/type/physical) **
+
+** End of Protrace **
