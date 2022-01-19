@@ -1,0 +1,8 @@
+#ignore project, db connections and propath files
+.dbconnection
+.project
+.propath
+project.xml
+
+# ignore our copiled files
+*.r
